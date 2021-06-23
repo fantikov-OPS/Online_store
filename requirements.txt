@@ -1,0 +1,9 @@
+asgiref
+Django
+django-crispy-forms
+Pillow
+pytz
+sqlparse
+djangorestframework
+django-heroku
+pipenv
